@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Om2004-del/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/Om2004-del/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0076-minimum-window-substring](https://github.com/Om2004-del/DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Om2004-del/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Om2004-del/DSA/tree/master/0567-permutation-in-string) |
