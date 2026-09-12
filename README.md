@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Om2004-del/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Om2004-del/DSA/tree/master/0076-minimum-window-substring) |
+| [0133-clone-graph](https://github.com/Om2004-del/DSA/tree/master/0133-clone-graph) |
 | [0219-contains-duplicate-ii](https://github.com/Om2004-del/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Om2004-del/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Om2004-del/DSA/tree/master/0567-permutation-in-string) |
@@ -59,11 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Om2004-del/DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Om2004-del/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Om2004-del/DSA/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Om2004-del/DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Om2004-del/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Om2004-del/DSA/tree/master/0695-max-area-of-island) |
 ## Union-Find
@@ -84,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Om2004-del/DSA/tree/master/0658-find-k-closest-elements) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Om2004-del/DSA/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
