@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Om2004-del/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Om2004-del/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Om2004-del/DSA/tree/master/1020-number-of-enclaves) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Om2004-del/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
 | ------- |
@@ -135,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Om2004-del/DSA/tree/master/0785-is-graph-bipartite) |
+## Math
+|  |
+| ------- |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Om2004-del/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 <!---LeetCode Topics End-->
