@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Om2004-del/DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Om2004-del/DSA/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Om2004-del/DSA/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Om2004-del/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Om2004-del/DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Om2004-del/DSA/tree/master/0031-next-permutation) |
 | [0567-permutation-in-string](https://github.com/Om2004-del/DSA/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Om2004-del/DSA/tree/master/0658-find-k-closest-elements) |
@@ -249,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Om2004-del/DSA/tree/master/0225-implement-stack-using-queues) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Om2004-del/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
