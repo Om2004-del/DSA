@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Om2004-del/DSA/tree/master/0542-01-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Om2004-del/DSA/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/Om2004-del/DSA/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Om2004-del/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Om2004-del/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Om2004-del/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Om2004-del/DSA/tree/master/1020-number-of-enclaves) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Om2004-del/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Om2004-del/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Om2004-del/DSA/tree/master/0567-permutation-in-string) |
+| [0721-accounts-merge](https://github.com/Om2004-del/DSA/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Om2004-del/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Sliding Window
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Om2004-del/DSA/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/Om2004-del/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Om2004-del/DSA/tree/master/0567-permutation-in-string) |
+| [0721-accounts-merge](https://github.com/Om2004-del/DSA/tree/master/0721-accounts-merge) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Om2004-del/DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Om2004-del/DSA/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Om2004-del/DSA/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Om2004-del/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Om2004-del/DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Om2004-del/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Om2004-del/DSA/tree/master/0785-is-graph-bipartite) |
@@ -116,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Om2004-del/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Om2004-del/DSA/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Om2004-del/DSA/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Om2004-del/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Om2004-del/DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Om2004-del/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Om2004-del/DSA/tree/master/0785-is-graph-bipartite) |
@@ -134,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Om2004-del/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Om2004-del/DSA/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Om2004-del/DSA/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Om2004-del/DSA/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/Om2004-del/DSA/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Om2004-del/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Om2004-del/DSA/tree/master/1020-number-of-enclaves) |
@@ -156,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Om2004-del/DSA/tree/master/0658-find-k-closest-elements) |
+| [0721-accounts-merge](https://github.com/Om2004-del/DSA/tree/master/0721-accounts-merge) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
