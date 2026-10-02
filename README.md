@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Om2004-del/DSA/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Om2004-del/DSA/tree/master/0050-powx-n) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Om2004-del/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Om2004-del/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Backtracking
@@ -316,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Om2004-del/DSA/tree/master/1192-critical-connections-in-a-network) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Om2004-del/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
