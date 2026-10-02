@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Om2004-del/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Om2004-del/DSA/tree/master/0050-powx-n) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Om2004-del/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1922-count-good-numbers](https://github.com/Om2004-del/DSA/tree/master/1922-count-good-numbers) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Om2004-del/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Backtracking
 |  |
@@ -321,4 +322,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Om2004-del/DSA/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/Om2004-del/DSA/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
