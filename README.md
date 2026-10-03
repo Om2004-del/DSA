@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Om2004-del/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Om2004-del/DSA/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Om2004-del/DSA/tree/master/0048-rotate-image) |
+| [0078-subsets](https://github.com/Om2004-del/DSA/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Om2004-del/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Om2004-del/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Om2004-del/DSA/tree/master/0130-surrounded-regions) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Om2004-del/DSA/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Om2004-del/DSA/tree/master/0078-subsets) |
 | [0126-word-ladder-ii](https://github.com/Om2004-del/DSA/tree/master/0126-word-ladder-ii) |
 ## Topological Sort
 |  |
@@ -330,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Om2004-del/DSA/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Om2004-del/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
