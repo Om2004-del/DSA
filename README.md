@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Om2004-del/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Om2004-del/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Om2004-del/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Om2004-del/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-path-with-minimum-effort](https://github.com/Om2004-del/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Om2004-del/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Om2004-del/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Om2004-del/DSA/tree/master/0031-next-permutation) |
 | [0567-permutation-in-string](https://github.com/Om2004-del/DSA/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Om2004-del/DSA/tree/master/0658-find-k-closest-elements) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Om2004-del/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Om2004-del/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Om2004-del/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/Om2004-del/DSA/tree/master/0658-find-k-closest-elements) |
 | [0778-swim-in-rising-water](https://github.com/Om2004-del/DSA/tree/master/0778-swim-in-rising-water) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Om2004-del/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-path-with-minimum-effort](https://github.com/Om2004-del/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Prefix Sum
 |  |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Om2004-del/DSA/tree/master/0015-3sum) |
 | [0658-find-k-closest-elements](https://github.com/Om2004-del/DSA/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/Om2004-del/DSA/tree/master/0721-accounts-merge) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Om2004-del/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
