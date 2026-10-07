@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Om2004-del/DSA/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Om2004-del/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Om2004-del/DSA/tree/master/0133-clone-graph) |
+| [0142-linked-list-cycle-ii](https://github.com/Om2004-del/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Om2004-del/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Om2004-del/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Om2004-del/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Om2004-del/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Om2004-del/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Om2004-del/DSA/tree/master/0031-next-permutation) |
+| [0142-linked-list-cycle-ii](https://github.com/Om2004-del/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0567-permutation-in-string](https://github.com/Om2004-del/DSA/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Om2004-del/DSA/tree/master/0658-find-k-closest-elements) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Om2004-del/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -349,4 +351,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Om2004-del/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Om2004-del/DSA/tree/master/0090-subsets-ii) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Om2004-del/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Om2004-del/DSA/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
