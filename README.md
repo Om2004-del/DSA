@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Om2004-del/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Om2004-del/DSA/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/Om2004-del/DSA/tree/master/0202-happy-number) |
+| [0445-add-two-numbers-ii](https://github.com/Om2004-del/DSA/tree/master/0445-add-two-numbers-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Om2004-del/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/Om2004-del/DSA/tree/master/1922-count-good-numbers) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Om2004-del/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Om2004-del/DSA/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Om2004-del/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Om2004-del/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0445-add-two-numbers-ii](https://github.com/Om2004-del/DSA/tree/master/0445-add-two-numbers-ii) |
 ## Design
 |  |
 | ------- |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Om2004-del/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Om2004-del/DSA/tree/master/0143-reorder-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Om2004-del/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Om2004-del/DSA/tree/master/0445-add-two-numbers-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
