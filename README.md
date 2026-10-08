@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Om2004-del/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Om2004-del/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/Om2004-del/DSA/tree/master/0994-rotting-oranges) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Om2004-del/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1020-number-of-enclaves](https://github.com/Om2004-del/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Om2004-del/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Om2004-del/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Om2004-del/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Om2004-del/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0445-add-two-numbers-ii](https://github.com/Om2004-del/DSA/tree/master/0445-add-two-numbers-ii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Om2004-del/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Om2004-del/DSA/tree/master/0143-reorder-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Om2004-del/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Om2004-del/DSA/tree/master/0445-add-two-numbers-ii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Om2004-del/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -402,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Om2004-del/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/Om2004-del/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
