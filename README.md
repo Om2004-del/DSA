@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Om2004-del/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/Om2004-del/DSA/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Om2004-del/DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Om2004-del/DSA/tree/master/0200-number-of-islands) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Om2004-del/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Om2004-del/DSA/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Om2004-del/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Om2004-del/DSA/tree/master/0225-implement-stack-using-queues) |
@@ -414,4 +416,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/Om2004-del/DSA/tree/master/1019-next-greater-node-in-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Om2004-del/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Om2004-del/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
