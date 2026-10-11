@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Om2004-del/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Om2004-del/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Om2004-del/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Om2004-del/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Om2004-del/DSA/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Om2004-del/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Om2004-del/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/Om2004-del/DSA/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Om2004-del/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Om2004-del/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Om2004-del/DSA/tree/master/1020-number-of-enclaves) |
 | [1192-critical-connections-in-a-network](https://github.com/Om2004-del/DSA/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Om2004-del/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Om2004-del/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Om2004-del/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/Om2004-del/DSA/tree/master/0827-making-a-large-island) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Om2004-del/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Om2004-del/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Om2004-del/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Om2004-del/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Om2004-del/DSA/tree/master/0015-3sum) |
 | [0658-find-k-closest-elements](https://github.com/Om2004-del/DSA/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/Om2004-del/DSA/tree/master/0721-accounts-merge) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Om2004-del/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Om2004-del/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Heap (Priority Queue)
 |  |
@@ -444,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Om2004-del/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Om2004-del/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Om2004-del/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Om2004-del/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -457,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Om2004-del/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Om2004-del/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Om2004-del/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Om2004-del/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
