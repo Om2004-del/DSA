@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Om2004-del/DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Om2004-del/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Om2004-del/DSA/tree/master/0733-flood-fill) |
+| [0740-delete-and-earn](https://github.com/Om2004-del/DSA/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Om2004-del/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/Om2004-del/DSA/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Om2004-del/DSA/tree/master/0827-making-a-large-island) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Om2004-del/DSA/tree/master/0567-permutation-in-string) |
 | [0652-find-duplicate-subtrees](https://github.com/Om2004-del/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0721-accounts-merge](https://github.com/Om2004-del/DSA/tree/master/0721-accounts-merge) |
+| [0740-delete-and-earn](https://github.com/Om2004-del/DSA/tree/master/0740-delete-and-earn) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Om2004-del/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0930-binary-subarrays-with-sum](https://github.com/Om2004-del/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Om2004-del/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Om2004-del/DSA/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/Om2004-del/DSA/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Om2004-del/DSA/tree/master/0542-01-matrix) |
+| [0740-delete-and-earn](https://github.com/Om2004-del/DSA/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Om2004-del/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Om2004-del/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0968-binary-tree-cameras](https://github.com/Om2004-del/DSA/tree/master/0968-binary-tree-cameras) |
