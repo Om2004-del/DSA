@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Om2004-del/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Om2004-del/DSA/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/Om2004-del/DSA/tree/master/0740-delete-and-earn) |
+| [0741-cherry-pickup](https://github.com/Om2004-del/DSA/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Om2004-del/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/Om2004-del/DSA/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Om2004-del/DSA/tree/master/0827-making-a-large-island) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Om2004-del/DSA/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Om2004-del/DSA/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/Om2004-del/DSA/tree/master/0740-delete-and-earn) |
+| [0741-cherry-pickup](https://github.com/Om2004-del/DSA/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Om2004-del/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Om2004-del/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/Om2004-del/DSA/tree/master/0931-minimum-falling-path-sum) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Om2004-del/DSA/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Om2004-del/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Om2004-del/DSA/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/Om2004-del/DSA/tree/master/0741-cherry-pickup) |
 | [0778-swim-in-rising-water](https://github.com/Om2004-del/DSA/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Om2004-del/DSA/tree/master/0827-making-a-large-island) |
 | [0931-minimum-falling-path-sum](https://github.com/Om2004-del/DSA/tree/master/0931-minimum-falling-path-sum) |
