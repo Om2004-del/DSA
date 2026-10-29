@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Om2004-del/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Om2004-del/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Om2004-del/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1463-cherry-pickup-ii](https://github.com/Om2004-del/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Om2004-del/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-path-with-minimum-effort](https://github.com/Om2004-del/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Om2004-del/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/Om2004-del/DSA/tree/master/0968-binary-tree-cameras) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Om2004-del/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Om2004-del/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1463-cherry-pickup-ii](https://github.com/Om2004-del/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Om2004-del/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## String
 |  |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Om2004-del/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Om2004-del/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Om2004-del/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1463-cherry-pickup-ii](https://github.com/Om2004-del/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/Om2004-del/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Sorting
 |  |
