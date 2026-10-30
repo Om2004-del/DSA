@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Om2004-del/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/Om2004-del/DSA/tree/master/0221-maximal-square) |
 | [0416-partition-equal-subset-sum](https://github.com/Om2004-del/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Om2004-del/DSA/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Om2004-del/DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Om2004-del/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/Om2004-del/DSA/tree/master/0658-find-k-closest-elements) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Om2004-del/DSA/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Om2004-del/DSA/tree/master/0221-maximal-square) |
 | [0416-partition-equal-subset-sum](https://github.com/Om2004-del/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Om2004-del/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Om2004-del/DSA/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Om2004-del/DSA/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/Om2004-del/DSA/tree/master/0740-delete-and-earn) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Om2004-del/DSA/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/Om2004-del/DSA/tree/master/0126-word-ladder-ii) |
 | [0216-combination-sum-iii](https://github.com/Om2004-del/DSA/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/Om2004-del/DSA/tree/master/0494-target-sum) |
 ## Topological Sort
 |  |
 | ------- |
@@ -580,8 +583,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Om2004-del/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Om2004-del/DSA/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Om2004-del/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Om2004-del/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
