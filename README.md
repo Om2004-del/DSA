@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Om2004-del/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/Om2004-del/DSA/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Om2004-del/DSA/tree/master/0827-making-a-large-island) |
+| [0879-profitable-schemes](https://github.com/Om2004-del/DSA/tree/master/0879-profitable-schemes) |
 | [0930-binary-subarrays-with-sum](https://github.com/Om2004-del/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/Om2004-del/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Om2004-del/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/Om2004-del/DSA/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Om2004-del/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Om2004-del/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0879-profitable-schemes](https://github.com/Om2004-del/DSA/tree/master/0879-profitable-schemes) |
 | [0931-minimum-falling-path-sum](https://github.com/Om2004-del/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/Om2004-del/DSA/tree/master/0968-binary-tree-cameras) |
 | [1049-last-stone-weight-ii](https://github.com/Om2004-del/DSA/tree/master/1049-last-stone-weight-ii) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Om2004-del/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Om2004-del/DSA/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Om2004-del/DSA/tree/master/0494-target-sum) |
+| [0879-profitable-schemes](https://github.com/Om2004-del/DSA/tree/master/0879-profitable-schemes) |
 | [1049-last-stone-weight-ii](https://github.com/Om2004-del/DSA/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
@@ -597,5 +600,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Om2004-del/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Om2004-del/DSA/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Om2004-del/DSA/tree/master/0494-target-sum) |
+| [0879-profitable-schemes](https://github.com/Om2004-del/DSA/tree/master/0879-profitable-schemes) |
 | [1049-last-stone-weight-ii](https://github.com/Om2004-del/DSA/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
