@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Om2004-del/DSA/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/Om2004-del/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/Om2004-del/DSA/tree/master/0221-maximal-square) |
+| [0322-coin-change](https://github.com/Om2004-del/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Om2004-del/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Om2004-del/DSA/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Om2004-del/DSA/tree/master/0494-target-sum) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Om2004-del/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Om2004-del/DSA/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Om2004-del/DSA/tree/master/0221-maximal-square) |
+| [0322-coin-change](https://github.com/Om2004-del/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Om2004-del/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Om2004-del/DSA/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Om2004-del/DSA/tree/master/0494-target-sum) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Om2004-del/DSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Om2004-del/DSA/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Om2004-del/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/Om2004-del/DSA/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Om2004-del/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Om2004-del/DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Om2004-del/DSA/tree/master/0662-maximum-width-of-binary-tree) |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Om2004-del/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Om2004-del/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Om2004-del/DSA/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Om2004-del/DSA/tree/master/0494-target-sum) |
@@ -602,4 +606,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Om2004-del/DSA/tree/master/0494-target-sum) |
 | [0879-profitable-schemes](https://github.com/Om2004-del/DSA/tree/master/0879-profitable-schemes) |
 | [1049-last-stone-weight-ii](https://github.com/Om2004-del/DSA/tree/master/1049-last-stone-weight-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Om2004-del/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
