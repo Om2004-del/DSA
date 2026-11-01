@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Om2004-del/DSA/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/Om2004-del/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Om2004-del/DSA/tree/master/0322-coin-change) |
+| [0343-integer-break](https://github.com/Om2004-del/DSA/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/Om2004-del/DSA/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Om2004-del/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Om2004-del/DSA/tree/master/0474-ones-and-zeroes) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Om2004-del/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Om2004-del/DSA/tree/master/0202-happy-number) |
 | [0279-perfect-squares](https://github.com/Om2004-del/DSA/tree/master/0279-perfect-squares) |
+| [0343-integer-break](https://github.com/Om2004-del/DSA/tree/master/0343-integer-break) |
 | [0445-add-two-numbers-ii](https://github.com/Om2004-del/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/Om2004-del/DSA/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Om2004-del/DSA/tree/master/1248-count-number-of-nice-subarrays) |
