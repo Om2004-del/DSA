@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Om2004-del/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Om2004-del/DSA/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Om2004-del/DSA/tree/master/0221-maximal-square) |
+| [0279-perfect-squares](https://github.com/Om2004-del/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Om2004-del/DSA/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Om2004-del/DSA/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Om2004-del/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Om2004-del/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Om2004-del/DSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Om2004-del/DSA/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/Om2004-del/DSA/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Om2004-del/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Om2004-del/DSA/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Om2004-del/DSA/tree/master/0542-01-matrix) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Om2004-del/DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Om2004-del/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Om2004-del/DSA/tree/master/0202-happy-number) |
+| [0279-perfect-squares](https://github.com/Om2004-del/DSA/tree/master/0279-perfect-squares) |
 | [0445-add-two-numbers-ii](https://github.com/Om2004-del/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/Om2004-del/DSA/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Om2004-del/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -596,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Om2004-del/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Om2004-del/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Om2004-del/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Om2004-del/DSA/tree/master/0474-ones-and-zeroes) |
@@ -614,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Om2004-del/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Om2004-del/DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Om2004-del/DSA/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
