@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Om2004-del/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/Om2004-del/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Om2004-del/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0983-minimum-cost-for-tickets](https://github.com/Om2004-del/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [0994-rotting-oranges](https://github.com/Om2004-del/DSA/tree/master/0994-rotting-oranges) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Om2004-del/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1020-number-of-enclaves](https://github.com/Om2004-del/DSA/tree/master/1020-number-of-enclaves) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0879-profitable-schemes](https://github.com/Om2004-del/DSA/tree/master/0879-profitable-schemes) |
 | [0931-minimum-falling-path-sum](https://github.com/Om2004-del/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/Om2004-del/DSA/tree/master/0968-binary-tree-cameras) |
+| [0983-minimum-cost-for-tickets](https://github.com/Om2004-del/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1049-last-stone-weight-ii](https://github.com/Om2004-del/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Om2004-del/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Om2004-del/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
