@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Om2004-del/DSA/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/Om2004-del/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/Om2004-del/DSA/tree/master/0221-maximal-square) |
+| [0300-longest-increasing-subsequence](https://github.com/Om2004-del/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Om2004-del/DSA/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Om2004-del/DSA/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Om2004-del/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Om2004-del/DSA/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Om2004-del/DSA/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/Om2004-del/DSA/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/Om2004-del/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Om2004-del/DSA/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/Om2004-del/DSA/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/Om2004-del/DSA/tree/master/0377-combination-sum-iv) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Om2004-del/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/Om2004-del/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Om2004-del/DSA/tree/master/0658-find-k-closest-elements) |
 | [0778-swim-in-rising-water](https://github.com/Om2004-del/DSA/tree/master/0778-swim-in-rising-water) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Om2004-del/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -626,4 +629,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Om2004-del/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Om2004-del/DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Om2004-del/DSA/tree/master/0518-coin-change-ii) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Om2004-del/DSA/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
