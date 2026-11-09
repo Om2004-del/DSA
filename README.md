@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Om2004-del/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1020-number-of-enclaves](https://github.com/Om2004-del/DSA/tree/master/1020-number-of-enclaves) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Om2004-del/DSA/tree/master/1027-longest-arithmetic-subsequence) |
+| [1035-uncrossed-lines](https://github.com/Om2004-del/DSA/tree/master/1035-uncrossed-lines) |
 | [1048-longest-string-chain](https://github.com/Om2004-del/DSA/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Om2004-del/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Om2004-del/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/Om2004-del/DSA/tree/master/0968-binary-tree-cameras) |
 | [0983-minimum-cost-for-tickets](https://github.com/Om2004-del/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Om2004-del/DSA/tree/master/1027-longest-arithmetic-subsequence) |
+| [1035-uncrossed-lines](https://github.com/Om2004-del/DSA/tree/master/1035-uncrossed-lines) |
 | [1048-longest-string-chain](https://github.com/Om2004-del/DSA/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Om2004-del/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/Om2004-del/DSA/tree/master/1143-longest-common-subsequence) |
@@ -674,5 +676,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [1035-uncrossed-lines](https://github.com/Om2004-del/DSA/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/Om2004-del/DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
