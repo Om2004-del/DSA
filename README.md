@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Om2004-del/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Om2004-del/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Om2004-del/DSA/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Om2004-del/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Om2004-del/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Om2004-del/DSA/tree/master/0072-edit-distance) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Om2004-del/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/Om2004-del/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Om2004-del/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Om2004-del/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Om2004-del/DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Om2004-del/DSA/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/Om2004-del/DSA/tree/master/0097-interleaving-string) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Om2004-del/DSA/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Om2004-del/DSA/tree/master/0044-wildcard-matching) |
 | [0376-wiggle-subsequence](https://github.com/Om2004-del/DSA/tree/master/0376-wiggle-subsequence) |
 ## Minimax
 |  |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Om2004-del/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Om2004-del/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/Om2004-del/DSA/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Om2004-del/DSA/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Om2004-del/DSA/tree/master/0143-reorder-list) |
 | [0509-fibonacci-number](https://github.com/Om2004-del/DSA/tree/master/0509-fibonacci-number) |
