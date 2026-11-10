@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Om2004-del/DSA/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Om2004-del/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Om2004-del/DSA/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/Om2004-del/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Om2004-del/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Om2004-del/DSA/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Om2004-del/DSA/tree/master/0583-delete-operation-for-two-strings) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Om2004-del/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Om2004-del/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/Om2004-del/DSA/tree/master/0474-ones-and-zeroes) |
+| [0516-longest-palindromic-subsequence](https://github.com/Om2004-del/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Om2004-del/DSA/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Om2004-del/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Om2004-del/DSA/tree/master/0647-palindromic-substrings) |
