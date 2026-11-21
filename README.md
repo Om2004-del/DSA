@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Om2004-del/DSA/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Om2004-del/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/Om2004-del/DSA/tree/master/0695-max-area-of-island) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Om2004-del/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/Om2004-del/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Om2004-del/DSA/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/Om2004-del/DSA/tree/master/0740-delete-and-earn) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Om2004-del/DSA/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Om2004-del/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Om2004-del/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Om2004-del/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Om2004-del/DSA/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/Om2004-del/DSA/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Om2004-del/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Om2004-del/DSA/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Om2004-del/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0376-wiggle-subsequence](https://github.com/Om2004-del/DSA/tree/master/0376-wiggle-subsequence) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Om2004-del/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Minimax
 |  |
 | ------- |
