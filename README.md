@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Om2004-del/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/Om2004-del/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Om2004-del/DSA/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/Om2004-del/DSA/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/Om2004-del/DSA/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Om2004-del/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Om2004-del/DSA/tree/master/0198-house-robber) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Om2004-del/DSA/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Om2004-del/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Om2004-del/DSA/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/Om2004-del/DSA/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/Om2004-del/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Om2004-del/DSA/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Om2004-del/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Om2004-del/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Om2004-del/DSA/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Om2004-del/DSA/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Om2004-del/DSA/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/Om2004-del/DSA/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Om2004-del/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Om2004-del/DSA/tree/master/0198-house-robber) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Om2004-del/DSA/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Om2004-del/DSA/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Om2004-del/DSA/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Om2004-del/DSA/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Om2004-del/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Om2004-del/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/Om2004-del/DSA/tree/master/0474-ones-and-zeroes) |
@@ -681,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Om2004-del/DSA/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Om2004-del/DSA/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Om2004-del/DSA/tree/master/0509-fibonacci-number) |
 ## Knapsack Problem
 |  |
@@ -733,4 +738,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Om2004-del/DSA/tree/master/0005-longest-palindromic-substring) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Om2004-del/DSA/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Om2004-del/DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
