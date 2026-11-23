@@ -16,7 +16,7 @@ public:
                 for(int i = 0; i<word.size();i++){
                     char original = word[i];
                     for(char ch = 'a';ch <= 'z'; ch++){
-                        word[i]=ch;
+                        word[i]=ch; //yhe yaad rakhna..bhul jaaya hu mai
                         if(word==endWord){
                             return level + 1;
                         }
