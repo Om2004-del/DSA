@@ -28,6 +28,7 @@ public:
                 for(int k = 0 ; k<4; k++){
                     int nr = r + dr[k];
                     int nc = c + dc[k];
+                    // valid cells + fresh oranges 
 
                     if(nr >=0 && nr < n && nc >=0 && nc < m && grid[nr][nc]==1){
                         grid[nr][nc]=2;
@@ -41,8 +42,6 @@ public:
         if(fresh > 0){
             return -1;
         }
-
         return time; 
-
     }
 };
