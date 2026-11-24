@@ -32,6 +32,6 @@ public:
                 }
             }
         }
-        return count == n;
+        return count == n; //yhe yaad rakhna hai bss..baaki almost same code hai kahn algorithm ka 
     }
 };
